@@ -27,3 +27,11 @@ artifacts/releases/
 *.apk
 *.aab
 **/metro-cache/
+**/node-compile-cache/
+**/metro-file-map-*
+artifacts/*-tmp/
+artifacts/*-export/
+artifacts/*-bytecode.txt
+*.tsbuildinfo
+__pycache__/
+*.pyc
