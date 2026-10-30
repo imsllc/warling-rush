@@ -1,0 +1,575 @@
+add @expo/prebuild-config 55.0.22
+add @expo/dom-webview 55.0.6
+add expo-modules-core 55.0.27
+add @expo/metro-config 55.0.27
+add hermes-estree 0.32.1
+add picomatch 4.0.7
+add hermes-parser 0.32.1
+add @expo/json-file 10.0.16
+add @babel/code-frame 7.10.4
+add @expo/env 2.1.3
+add @expo/log-box 55.0.13
+change xcode 3.0.1 => 4.0.0
+remove uuid 7.0.3
+change postcss 8.5.31 => 8.5.32
+change node-forge 1.4.0 => 1.4.2
+change expo-modules-autolinking 55.0.27 => 55.0.28
+change expo 55.0.31 => 55.0.32
+add ws 8.22.0
+remove hermes-parser 0.32.1
+remove hermes-estree 0.32.1
+remove expo-modules-core 55.0.26
+remove @expo/metro-config 55.0.27
+remove @expo/log-box 55.0.13
+remove @expo/dom-webview 55.0.6
+remove @expo/json-file 10.0.16
+remove @babel/code-frame 7.10.4
+change @expo/cli 55.0.36 => 55.0.37
+remove ws 8.22.0
+remove @expo/prebuild-config 55.0.22
+change @expo/config-plugins 55.0.11 => 55.0.12
+{
+  "add": [
+    {
+      "name": "@expo/prebuild-config",
+      "version": "55.0.22",
+      "path": "C:\\source\\warling-rush\\node_modules\\@expo\\prebuild-config"
+    },
+    {
+      "name": "@expo/dom-webview",
+      "version": "55.0.6",
+      "path": "C:\\source\\warling-rush\\node_modules\\@expo\\dom-webview"
+    },
+    {
+      "name": "expo-modules-core",
+      "version": "55.0.27",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo-modules-core"
+    },
+    {
+      "name": "@expo/metro-config",
+      "version": "55.0.27",
+      "path": "C:\\source\\warling-rush\\node_modules\\@expo\\metro-config"
+    },
+    {
+      "name": "hermes-estree",
+      "version": "0.32.1",
+      "path": "C:\\source\\warling-rush\\node_modules\\@expo\\metro-config\\node_modules\\hermes-estree"
+    },
+    {
+      "name": "picomatch",
+      "version": "4.0.7",
+      "path": "C:\\source\\warling-rush\\node_modules\\@expo\\metro-config\\node_modules\\picomatch"
+    },
+    {
+      "name": "hermes-parser",
+      "version": "0.32.1",
+      "path": "C:\\source\\warling-rush\\node_modules\\@expo\\metro-config\\node_modules\\hermes-parser"
+    },
+    {
+      "name": "@expo/json-file",
+      "version": "10.0.16",
+      "path": "C:\\source\\warling-rush\\node_modules\\@expo\\metro-config\\node_modules\\@expo\\json-file"
+    },
+    {
+      "name": "@babel/code-frame",
+      "version": "7.10.4",
+      "path": "C:\\source\\warling-rush\\node_modules\\@expo\\metro-config\\node_modules\\@expo\\json-file\\node_modules\\@babel\\code-frame"
+    },
+    {
+      "name": "@expo/env",
+      "version": "2.1.3",
+      "path": "C:\\source\\warling-rush\\node_modules\\@expo\\metro-config\\node_modules\\@expo\\env"
+    },
+    {
+      "name": "@expo/log-box",
+      "version": "55.0.13",
+      "path": "C:\\source\\warling-rush\\node_modules\\@expo\\log-box"
+    },
+    {
+      "name": "ws",
+      "version": "8.22.0",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\ws"
+    }
+  ],
+  "added": 12,
+  "audited": 606,
+  "change": [
+    {
+      "from": {
+        "name": "xcode",
+        "version": "3.0.1",
+        "path": "C:\\source\\warling-rush\\node_modules\\xcode"
+      },
+      "to": {
+        "name": "xcode",
+        "version": "4.0.0",
+        "path": "C:\\source\\warling-rush\\node_modules\\xcode"
+      }
+    },
+    {
+      "from": {
+        "name": "postcss",
+        "version": "8.5.31",
+        "path": "C:\\source\\warling-rush\\node_modules\\postcss"
+      },
+      "to": {
+        "name": "postcss",
+        "version": "8.5.32",
+        "path": "C:\\source\\warling-rush\\node_modules\\postcss"
+      }
+    },
+    {
+      "from": {
+        "name": "node-forge",
+        "version": "1.4.0",
+        "path": "C:\\source\\warling-rush\\node_modules\\node-forge"
+      },
+      "to": {
+        "name": "node-forge",
+        "version": "1.4.2",
+        "path": "C:\\source\\warling-rush\\node_modules\\node-forge"
+      }
+    },
+    {
+      "from": {
+        "name": "expo-modules-autolinking",
+        "version": "55.0.27",
+        "path": "C:\\source\\warling-rush\\node_modules\\expo-modules-autolinking"
+      },
+      "to": {
+        "name": "expo-modules-autolinking",
+        "version": "55.0.28",
+        "path": "C:\\source\\warling-rush\\node_modules\\expo-modules-autolinking"
+      }
+    },
+    {
+      "from": {
+        "name": "expo",
+        "version": "55.0.31",
+        "path": "C:\\source\\warling-rush\\node_modules\\expo"
+      },
+      "to": {
+        "name": "expo",
+        "version": "55.0.32",
+        "path": "C:\\source\\warling-rush\\node_modules\\expo"
+      }
+    },
+    {
+      "from": {
+        "name": "@expo/cli",
+        "version": "55.0.36",
+        "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\@expo\\cli"
+      },
+      "to": {
+        "name": "@expo/cli",
+        "version": "55.0.37",
+        "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\@expo\\cli"
+      }
+    },
+    {
+      "from": {
+        "name": "@expo/config-plugins",
+        "version": "55.0.11",
+        "path": "C:\\source\\warling-rush\\node_modules\\@expo\\config-plugins"
+      },
+      "to": {
+        "name": "@expo/config-plugins",
+        "version": "55.0.12",
+        "path": "C:\\source\\warling-rush\\node_modules\\@expo\\config-plugins"
+      }
+    }
+  ],
+  "changed": 7,
+  "funding": 49,
+  "remove": [
+    {
+      "name": "uuid",
+      "version": "7.0.3",
+      "path": "C:\\source\\warling-rush\\node_modules\\uuid"
+    },
+    {
+      "name": "hermes-parser",
+      "version": "0.32.1",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\hermes-parser"
+    },
+    {
+      "name": "hermes-estree",
+      "version": "0.32.1",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\hermes-estree"
+    },
+    {
+      "name": "expo-modules-core",
+      "version": "55.0.26",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\expo-modules-core"
+    },
+    {
+      "name": "@expo/metro-config",
+      "version": "55.0.27",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\@expo\\metro-config"
+    },
+    {
+      "name": "@expo/log-box",
+      "version": "55.0.13",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\@expo\\log-box"
+    },
+    {
+      "name": "@expo/dom-webview",
+      "version": "55.0.6",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\@expo\\log-box\\node_modules\\@expo\\dom-webview"
+    },
+    {
+      "name": "@expo/json-file",
+      "version": "10.0.16",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\@expo\\json-file"
+    },
+    {
+      "name": "@babel/code-frame",
+      "version": "7.10.4",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\@expo\\json-file\\node_modules\\@babel\\code-frame"
+    },
+    {
+      "name": "ws",
+      "version": "8.22.0",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\ws"
+    },
+    {
+      "name": "@expo/prebuild-config",
+      "version": "55.0.22",
+      "path": "C:\\source\\warling-rush\\node_modules\\expo\\node_modules\\@expo\\cli\\node_modules\\@expo\\prebuild-config"
+    }
+  ],
+  "removed": 11,
+  "audit": {
+    "auditReportVersion": 2,
+    "vulnerabilities": {
+      "@expo/cli": {
+        "name": "@expo/cli",
+        "severity": "high",
+        "isDirect": false,
+        "via": [
+          "@expo/config",
+          "@expo/metro-config",
+          "@expo/prebuild-config",
+          "zod"
+        ],
+        "effects": [
+          "expo"
+        ],
+        "range": ">=0.19.0-canary-20240625-2333e70",
+        "nodes": [
+          ""
+        ],
+        "fixAvailable": {
+          "name": "expo",
+          "version": "51.0.39",
+          "isSemVerMajor": true
+        }
+      },
+      "@expo/config": {
+        "name": "@expo/config",
+        "severity": "low",
+        "isDirect": false,
+        "via": [
+          "deepmerge"
+        ],
+        "effects": [
+          "@expo/cli",
+          "@expo/local-build-cache-provider",
+          "@expo/metro-config",
+          "@expo/prebuild-config",
+          "expo"
+        ],
+        "range": ">=9.1.0-canary-20240628-1ba8152",
+        "nodes": [
+          "node_modules/@expo/config"
+        ],
+        "fixAvailable": {
+          "name": "expo",
+          "version": "51.0.39",
+          "isSemVerMajor": true
+        }
+      },
+      "@expo/config-plugins": {
+        "name": "@expo/config-plugins",
+        "severity": "moderate",
+        "isDirect": false,
+        "via": [
+          "xcode"
+        ],
+        "effects": [],
+        "range": "<=54.0.5 || 54.1.0-canary-20250930-9dc59d3 - 55.0.11 || 56.0.0-canary-20260212-4f61309 - 56.0.16 || 57.0.0-canary-20260526-13e89ca - 57.0.10 || 58.0.0-canary-20260806-8c2d007 - 58.0.9",
+        "nodes": [
+          ""
+        ],
+        "fixAvailable": true
+      },
+      "@expo/local-build-cache-provider": {
+        "name": "@expo/local-build-cache-provider",
+        "severity": "low",
+        "isDirect": false,
+        "via": [
+          "@expo/config"
+        ],
+        "effects": [
+          "expo"
+        ],
+        "range": "*",
+        "nodes": [
+          "node_modules/@expo/local-build-cache-provider"
+        ],
+        "fixAvailable": {
+          "name": "expo",
+          "version": "51.0.39",
+          "isSemVerMajor": true
+        }
+      },
+      "@expo/metro-config": {
+        "name": "@expo/metro-config",
+        "severity": "low",
+        "isDirect": false,
+        "via": [
+          "@expo/config"
+        ],
+        "effects": [
+          "@expo/cli",
+          "expo"
+        ],
+        "range": ">=0.19.0-canary-20240625-2333e70",
+        "nodes": [
+          "",
+          "node_modules/@expo/metro-config"
+        ],
+        "fixAvailable": {
+          "name": "expo",
+          "version": "51.0.39",
+          "isSemVerMajor": true
+        }
+      },
+      "@expo/prebuild-config": {
+        "name": "@expo/prebuild-config",
+        "severity": "low",
+        "isDirect": false,
+        "via": [
+          "@expo/config"
+        ],
+        "effects": [
+          "@expo/cli"
+        ],
+        "range": ">=7.1.0-canary-20240904-69100c1",
+        "nodes": [
+          ""
+        ],
+        "fixAvailable": {
+          "name": "expo",
+          "version": "51.0.39",
+          "isSemVerMajor": true
+        }
+      },
+      "deepmerge": {
+        "name": "deepmerge",
+        "severity": "low",
+        "isDirect": false,
+        "via": [
+          {
+            "source": 1243505,
+            "name": "deepmerge",
+            "dependency": "deepmerge",
+            "title": "deepmerge mergeObject() allows prototype poisoning of returned objects",
+            "url": "https://github.com/advisories/GHSA-gcqx-w48m-w2h4",
+            "severity": "low",
+            "cwe": [
+              "CWE-1321"
+            ],
+            "cvss": {
+              "score": 5.3,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N"
+            },
+            "range": ">=4.2.0 <=4.3.1"
+          }
+        ],
+        "effects": [
+          "@expo/config"
+        ],
+        "range": ">=4.2.0",
+        "nodes": [
+          "node_modules/deepmerge"
+        ],
+        "fixAvailable": {
+          "name": "expo",
+          "version": "51.0.39",
+          "isSemVerMajor": true
+        }
+      },
+      "expo": {
+        "name": "expo",
+        "severity": "high",
+        "isDirect": true,
+        "via": [
+          "@expo/cli",
+          "@expo/config",
+          "@expo/local-build-cache-provider",
+          "@expo/metro-config"
+        ],
+        "effects": [],
+        "range": ">=52.0.0-canary-20240625-2333e70",
+        "nodes": [
+          "",
+          "node_modules/expo"
+        ],
+        "fixAvailable": {
+          "name": "expo",
+          "version": "51.0.39",
+          "isSemVerMajor": true
+        }
+      },
+      "node-forge": {
+        "name": "node-forge",
+        "severity": "high",
+        "isDirect": false,
+        "via": [
+          {
+            "source": 1240912,
+            "name": "node-forge",
+            "dependency": "node-forge",
+            "title": "node-forge RSA PKCS#1 v1.5 signature verification accepts extra nested DigestAlgorithm elements",
+            "url": "https://github.com/advisories/GHSA-86w9-cpqp-85rv",
+            "severity": "high",
+            "cwe": [
+              "CWE-347"
+            ],
+            "cvss": {
+              "score": 7.5,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N"
+            },
+            "range": "<=1.4.0"
+          }
+        ],
+        "effects": [],
+        "range": "<=1.4.0",
+        "nodes": [
+          ""
+        ],
+        "fixAvailable": true
+      },
+      "uuid": {
+        "name": "uuid",
+        "severity": "moderate",
+        "isDirect": false,
+        "via": [
+          {
+            "source": 1119441,
+            "name": "uuid",
+            "dependency": "uuid",
+            "title": "uuid: Missing buffer bounds check in v3/v5/v6 when buf is provided",
+            "url": "https://github.com/advisories/GHSA-w5hq-g745-h8pq",
+            "severity": "moderate",
+            "cwe": [
+              "CWE-787",
+              "CWE-1285"
+            ],
+            "cvss": {
+              "score": 7.5,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N"
+            },
+            "range": "<11.1.1"
+          }
+        ],
+        "effects": [
+          "xcode"
+        ],
+        "range": "<11.1.1",
+        "nodes": [
+          ""
+        ],
+        "fixAvailable": true
+      },
+      "xcode": {
+        "name": "xcode",
+        "severity": "moderate",
+        "isDirect": false,
+        "via": [
+          "uuid"
+        ],
+        "effects": [
+          "@expo/config-plugins"
+        ],
+        "range": "0.9.2 - 3.0.2-nightly.20251125002453809.sha.e6b981ec",
+        "nodes": [
+          ""
+        ],
+        "fixAvailable": true
+      },
+      "zod": {
+        "name": "zod",
+        "severity": "high",
+        "isDirect": false,
+        "via": [
+          {
+            "source": 1243066,
+            "name": "zod",
+            "dependency": "zod",
+            "title": "Zod can exhaust memory while validating oversized constrained collections",
+            "url": "https://github.com/advisories/GHSA-mrhx-c7xc-m3w5",
+            "severity": "high",
+            "cwe": [
+              "CWE-770"
+            ],
+            "cvss": {
+              "score": 7.5,
+              "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+            },
+            "range": "<4.6.6"
+          }
+        ],
+        "effects": [
+          "@expo/cli"
+        ],
+        "range": "<4.6.6",
+        "nodes": [
+          ""
+        ],
+        "fixAvailable": {
+          "name": "expo",
+          "version": "51.0.39",
+          "isSemVerMajor": true
+        }
+      }
+    },
+    "metadata": {
+      "vulnerabilities": {
+        "info": 0,
+        "low": 5,
+        "moderate": 3,
+        "high": 4,
+        "critical": 0,
+        "total": 12
+      },
+      "dependencies": {
+        "prod": 601,
+        "dev": 4,
+        "optional": 2,
+        "peer": 0,
+        "peerOptional": 0,
+        "total": 605
+      }
+    }
+  },
+  "unreviewedScripts": [
+    {
+      "name": "@shopify/react-native-skia",
+      "version": "2.4.18",
+      "path": "C:\\source\\warling-rush\\node_modules\\@shopify\\react-native-skia",
+      "scripts": {
+        "postinstall": "node ./scripts/install-skia.mjs"
+      }
+    },
+    {
+      "name": "esbuild",
+      "version": "0.28.2",
+      "path": "C:\\source\\warling-rush\\node_modules\\esbuild",
+      "scripts": {
+        "postinstall": "node install.js"
+      }
+    }
+  ]
+}

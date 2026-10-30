@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <!-- Background playback/recording are disabled. Expo's audio notification
+         service is not registered in the merged manifest and cannot run.
+         Keep notification permission checking enabled for all other code. -->
+    <issue id="NotificationPermission">
+        <ignore regexp="usage from expo\.modules\.audio\.service\.AudioControlsService" />
+    </issue>
+</lint>

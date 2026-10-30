@@ -1,0 +1,8 @@
+# Caveman concept (inactive)
+
+The game uses its original simple character renderer. This unused concept is retained for reference. `caveman.png` is the generated 4-column, 2-row transparent sprite atlas used for Clubmen on both teams and in unit portraits. Player sprites are mirrored; team-colored ground markers distinguish the sides. The renderer aligns the two rows to their feet and uses idle, windup, swing and recovery poses. The cropped sixth pose is intentionally unused.
+
+Artwork generated with the built-in image_gen tool from the user's supplied caveman reference. Prompt:
+
+Edit the attached caveman into an attack animation sprite sheet: exactly 8 frames in a precise 4-column by 2-row grid. Transparent background. No text, labels, borders, shadows on ground, or scenery. Preserve the exact character identity: brown wild hair and beard, red nose, leopard tunic, skull belt buckle, fur cuffs and giant stone club. Same detailed cartoon style and colors. Character faces left in every cell. Whole body and club fully visible with generous empty margins in every cell; no overlap between cells. Same character size, feet baseline and body center across all cells. Read left to right, top row then bottom row: neutral club held upright; anticipation crouch; weapon arm lifts club overhead; club wound back high behind head toward right; powerful swing toward left; impact with club extended down toward ground on left; recovering club upward; back to neutral. Animate weapon arm articulation and body weight. Every frame has exactly one caveman, two arms, two legs, one stone club. All cells equal with consistent anchors. Prioritize clean evenly spaced grid for automatic frame slicing.
+

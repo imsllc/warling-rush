@@ -1,0 +1,12 @@
+[
+  {
+    "file": "android/app/build/outputs/bundle/release/app-release.aab",
+    "bytes": 96279671,
+    "sha256": "1985c9944ff6119b866dee5bc2fcaa258fbcedccaf23c9fc1300b2ee90315779"
+  },
+  {
+    "file": "artifacts/releases/19/app-release.aab",
+    "bytes": 96279671,
+    "sha256": "1985c9944ff6119b866dee5bc2fcaa258fbcedccaf23c9fc1300b2ee90315779"
+  }
+]

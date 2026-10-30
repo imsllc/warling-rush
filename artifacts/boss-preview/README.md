@@ -1,0 +1,7 @@
+# Caveman attack concept
+
+Preview only; not connected to battle logic yet. The GIF assembles four generated poses with a slow windup, fast strike, impact hold and recovery. Additional in-between frames and artwork cleanup would be needed for the finished game animation.
+
+Created using the built-in image_gen tool, with the user's caveman image as the identity reference. Final prompt:
+
+Create a clean game animation sprite sheet of the attached exact caveman character, preserving face, hair, beard, leopard clothing, skull belt, fur cuffs, stone club and cartoon shading. EXACTLY FOUR full-body poses on a 2 by 2 evenly spaced grid, transparent background, no text. Each frame occupies one quadrant, with AT LEAST 15 percent transparent padding on all four sides within its quadrant, including around the weapon. Character faces LEFT. Consistent scale, same foot baseline within each quadrant, same body anchor. Top left: neutral standing, club upright to left of face. Top right: anticipation, club lifted above and behind head ready to slam. Bottom left: impact, club swung down LEFT to ground, torso leans forward, bent knees. Bottom right: recovery, club halfway lifted back up toward neutral. Keep the ENTIRE character and ENTIRE weapon comfortably inside each quadrant. Make figures smaller to guarantee ample gutters. No cropped weapons or feet. These four frames will be sliced automatically on exact canvas half-width/half-height boundaries and played in order, so exact consistent grid and padding are critical.

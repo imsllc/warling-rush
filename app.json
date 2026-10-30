@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Warling Rush",
+    "slug": "warling-rush",
+    "version": "1.0.18",
+    "orientation": "portrait",
+    "icon": "./assets/icons/app-icon.png",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.warlingrush.app",
+      "versionCode": 20,
+      "permissions": [
+        "com.android.vending.BILLING"
+      ],
+      "blockedPermissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.SYSTEM_ALERT_WINDOW"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/adaptive-foreground.png",
+        "backgroundImage": "./assets/icons/adaptive-background.png",
+        "backgroundColor": "#008efc",
+        "monochromeImage": "./assets/icons/adaptive-monochrome.png"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.warlingrush.app",
+      "supportsTablet": true
+    },
+    "splash": {
+      "backgroundColor": "#142c2a"
+    },
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "microphonePermission": false,
+          "recordAudioAndroid": false,
+          "enableBackgroundPlayback": false,
+          "enableBackgroundRecording": false
+        }
+      ],
+      "expo-asset"
+    ]
+  }
+}

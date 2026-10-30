@@ -1,0 +1,137 @@
+{
+  "updated": "Effective and last updated: October 26, 2026",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Warling Rush stores your game progress on your device and does not require an app account. Advertising uses Google AdMob, and optional purchases use Google Play Billing, in versions where those features are enabled. Their information practices are explained below."
+    },
+    {
+      "type": "p",
+      "text": "This policy explains how Integrated Media Systems, LLC, listed on Google Play as IMSLLC (\"we,\" \"us,\" or \"our\"), handles information in Warling Rush for Android (package identifier: com.warlingrush.app). It also covers support communications you send us. Features vary by app version; advertising and purchase processing described here apply when those services are included and enabled in the version you use."
+    },
+    {
+      "type": "h2",
+      "text": "Game progress stored on your device"
+    },
+    {
+      "type": "p",
+      "text": "The app saves your coin balance, upgrade levels, wave progress, battle and win totals, unlocked units, and equipped army in local app storage. This information keeps your progress between sessions. We do not operate a server that receives or synchronizes these gameplay saves. Game artwork and sound effects are bundled with the app."
+    },
+    {
+      "type": "p",
+      "text": "You do not need to provide a name, email address, or profile to play. The game does not use your contacts, camera, microphone, or precise device location. Sound effects are played back; the app does not record audio."
+    },
+    {
+      "type": "h2",
+      "text": "Advertisements: Google AdMob"
+    },
+    {
+      "type": "p",
+      "text": "When advertising is enabled, Google AdMob and its advertising partners process data to deliver ads, measure their performance, and prevent fraud. This may include:"
+    },
+    {
+      "type": "li",
+      "text": "IP address and approximate location inferred from it."
+    },
+    {
+      "type": "li",
+      "text": "Device or account identifiers, including advertising ID and app set ID where available."
+    },
+    {
+      "type": "li",
+      "text": "App and ad interactions, such as launches, taps, and video views."
+    },
+    {
+      "type": "li",
+      "text": "Crash, diagnostic, and performance information."
+    },
+    {
+      "type": "p",
+      "text": "Processing depends on the SDK, consent, region, and device settings. Non-personalized ads can still involve data processing. Google's consent tools may store privacy choices; use any consent or privacy-options controls presented in the app and Android's advertising privacy settings. App set ID supports analytics and fraud prevention, rather than personalized advertising. See Google's Privacy Policy and Google's information about partner apps."
+    },
+    {
+      "type": "h2",
+      "text": "In-app purchases: Google Play Billing"
+    },
+    {
+      "type": "p",
+      "text": "When the in-app store is enabled, Google Play processes optional purchases. Google handles payment details under its own policies; the app does not receive your full payment-card number or banking credentials."
+    },
+    {
+      "type": "p",
+      "text": "The app can receive purchase details, such as product identifiers, purchase tokens, transaction identifiers, and purchase status, to verify and fulfill purchases, prevent duplicate fulfillment, and restore eligible purchases. Google maintains transaction records, and order information may be available to us through Play Console. Consumable items, such as spent coins, may not be restorable. Clearing app storage does not erase Google's payment records or cancel any subscription you have purchased. Manage purchases, refunds, and any subscriptions through Google Play."
+    },
+    {
+      "type": "h2",
+      "text": "Support and information you provide"
+    },
+    {
+      "type": "p",
+      "text": "If you contact us, we receive the email address, message, and attachments you choose to provide. We use this information to respond, investigate problems, and handle requests. Our email and hosting providers may process it to deliver these services. Please do not send passwords, payment-card details, or information unnecessary for your request."
+    },
+    {
+      "type": "h2",
+      "text": "Use and sharing of information"
+    },
+    {
+      "type": "p",
+      "text": "Information is handled for gameplay, advertising, purchase fulfillment, fraud prevention, and support as described above. Google and advertising partners process information for their services under their policies. Support providers process communications on our behalf. We may disclose information we hold when legally required or reasonably necessary to protect users and our legal rights. We do not sell support contact details or local gameplay saves."
+    },
+    {
+      "type": "h2",
+      "text": "Retention, backups, and deletion"
+    },
+    {
+      "type": "p",
+      "text": "Local progress remains until the app's storage is cleared or removed. Android or your device provider may back up and restore app data depending on your settings; we do not control those backups. You can delete local saves through Android Settings, usually under Apps → Warling Rush → Storage → Clear storage. This removes local progress, coins, upgrades, and unlocks and may be irreversible. Uninstalling may also remove local data. Manage any backed-up copies through your device's backup controls."
+    },
+    {
+      "type": "p",
+      "text": "We retain support correspondence only as long as needed to resolve requests and meet applicable legal or recordkeeping obligations. Google and advertising partners determine retention for information they process under their policies. No Warling Rush app account is required or created, so there is no separate app account to delete."
+    },
+    {
+      "type": "p",
+      "text": "Depending on your location, you may have rights to access, correct, delete, or obtain a copy of information, restrict or object to processing, or withdraw consent. Contact us about information we hold; we may need to verify your request. Use Google's privacy controls for information Google holds. You may also contact your local data-protection authority."
+    },
+    {
+      "type": "h2",
+      "text": "Security and international processing"
+    },
+    {
+      "type": "p",
+      "text": "We use reasonable safeguards for information under our control, but no system is completely secure. Google encrypts Mobile Ads SDK data in transit using TLS. Google and other service providers may process information outside your country under their privacy policies and applicable safeguards."
+    },
+    {
+      "type": "h2",
+      "text": "Children's privacy"
+    },
+    {
+      "type": "p",
+      "text": "The game does not require children to provide a name, email address, or profile. We do not knowingly collect children's personal information through support communications. A parent or guardian should manage purchases and privacy choices for minors. If you believe a child has provided personal information to us, contact us so we can investigate and address it."
+    },
+    {
+      "type": "h2",
+      "text": "This policy and the hosting website"
+    },
+    {
+      "type": "p",
+      "text": "This HTML policy page does not include analytics, advertising scripts, tracking pixels, or cookies. The website hosting it may process ordinary connection information, such as IP addresses and access logs, under that site's own privacy practices."
+    },
+    {
+      "type": "h2",
+      "text": "Changes to this policy"
+    },
+    {
+      "type": "p",
+      "text": "We may update this policy as features or information practices change. Updates will appear on this page with a revised date. We will provide additional notice or obtain consent when required."
+    },
+    {
+      "type": "h2",
+      "text": "Contact us"
+    },
+    {
+      "type": "p",
+      "text": "Integrated Media Systems, LLC (Google Play developer name: IMSLLC)\nFor privacy questions or requests, email integratedmediasystemsllc@gmail.com and mention \"Warling Rush privacy\" in your message."
+    }
+  ]
+}
